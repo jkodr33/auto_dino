@@ -4,6 +4,7 @@ Dino automatizado para evitar colunas e outros obstáculos.
 
 Apenas uma demonstração de automação de interface gráfica
 
+Para funcionar é necessário Python3+ e a Biblioteca PyautoGui instalada.
 Requer aprendizado com a biblioteca pyautogui para desenvolver automações com mouse na interface do sistema.
 
 ⚠️Aviso! o bot só irá acertar os obstáculos de acordo com a resolução da tela de seu dispositivo.
