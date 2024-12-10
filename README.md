@@ -4,7 +4,7 @@ Dino automatizado para evitar colunas e outros obstáculos.
 
 Apenas uma demonstração de automação de interface gráfica
 
-Para funcionar é necessário Python3+ e a Biblioteca PyautoGui instalada.
+Para funcionar é necessário Python3+ e as bibliotecas PyautoGui e PIL instalada.
 
 
 Requer aprendizado com a biblioteca pyautogui para desenvolver automações com mouse na interface do sistema.
